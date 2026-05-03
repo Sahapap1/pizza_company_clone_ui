@@ -15,6 +15,7 @@ JavaScript (Vanilla JS)
 
 (Add your screenshot here)
 
+```
 📂 Project Structure
 project/
 │── index.html
@@ -25,8 +26,9 @@ project/
     │   
     │── script/
     │   └── script.js
-    │── style/
+    └── style/
         └── style.css
+```
     
 🎯 Objective
 
